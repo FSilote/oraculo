@@ -174,6 +174,7 @@ DEPENDENCIES
   launchy (= 0.3.7)
   nifty-generators
   rails (= 3.0.8)
+  rake (= 0.8.7)
   responders
   reverse_captcha
   rspec (~> 2.5)
