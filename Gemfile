@@ -18,5 +18,4 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'cucumber-rails'
   gem 'launchy', '0.3.7'
-  gem 'rake', '0.8.7'
 end
